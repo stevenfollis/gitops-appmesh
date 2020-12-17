@@ -20,8 +20,8 @@ that can create repositories (check all permissions under `repo`).
 Fork this repository on your personal GitHub account and export your access token, username and repo:
 
 ```sh
-export GITHUB_TOKEN=<your-token>
-export GITHUB_USER=<your-username>
+export GITHUB_TOKEN='19bc33c9ea51573e5494afbbce58f882c4334681'
+export GITHUB_USER='stevenfollis'
 export GITHUB_REPO=gitops-appmesh
 ```
 
